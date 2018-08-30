@@ -9,7 +9,7 @@ public class HelloWorld {
         writer.close();
     }
     public static void helloWorld(PrintWriter writer) {
-        writer.println("Hello World!");
+        writer.println("Hello !");
         writer.flush();
     }
 }
